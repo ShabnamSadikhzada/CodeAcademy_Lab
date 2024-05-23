@@ -1,0 +1,15 @@
+C:\Users\shabnamjs\Desktop\Lab\SwitchCaseTask\SwitchCaseTask\bin\Debug\net8.0\SwitchCaseTask.exe
+C:\Users\shabnamjs\Desktop\Lab\SwitchCaseTask\SwitchCaseTask\bin\Debug\net8.0\SwitchCaseTask.deps.json
+C:\Users\shabnamjs\Desktop\Lab\SwitchCaseTask\SwitchCaseTask\bin\Debug\net8.0\SwitchCaseTask.runtimeconfig.json
+C:\Users\shabnamjs\Desktop\Lab\SwitchCaseTask\SwitchCaseTask\bin\Debug\net8.0\SwitchCaseTask.dll
+C:\Users\shabnamjs\Desktop\Lab\SwitchCaseTask\SwitchCaseTask\bin\Debug\net8.0\SwitchCaseTask.pdb
+C:\Users\shabnamjs\Desktop\Lab\SwitchCaseTask\SwitchCaseTask\obj\Debug\net8.0\SwitchCaseTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabnamjs\Desktop\Lab\SwitchCaseTask\SwitchCaseTask\obj\Debug\net8.0\SwitchCaseTask.AssemblyInfoInputs.cache
+C:\Users\shabnamjs\Desktop\Lab\SwitchCaseTask\SwitchCaseTask\obj\Debug\net8.0\SwitchCaseTask.AssemblyInfo.cs
+C:\Users\shabnamjs\Desktop\Lab\SwitchCaseTask\SwitchCaseTask\obj\Debug\net8.0\SwitchCaseTask.csproj.CoreCompileInputs.cache
+C:\Users\shabnamjs\Desktop\Lab\SwitchCaseTask\SwitchCaseTask\obj\Debug\net8.0\SwitchCaseTask.sourcelink.json
+C:\Users\shabnamjs\Desktop\Lab\SwitchCaseTask\SwitchCaseTask\obj\Debug\net8.0\SwitchCaseTask.dll
+C:\Users\shabnamjs\Desktop\Lab\SwitchCaseTask\SwitchCaseTask\obj\Debug\net8.0\refint\SwitchCaseTask.dll
+C:\Users\shabnamjs\Desktop\Lab\SwitchCaseTask\SwitchCaseTask\obj\Debug\net8.0\SwitchCaseTask.pdb
+C:\Users\shabnamjs\Desktop\Lab\SwitchCaseTask\SwitchCaseTask\obj\Debug\net8.0\SwitchCaseTask.genruntimeconfig.cache
+C:\Users\shabnamjs\Desktop\Lab\SwitchCaseTask\SwitchCaseTask\obj\Debug\net8.0\ref\SwitchCaseTask.dll
