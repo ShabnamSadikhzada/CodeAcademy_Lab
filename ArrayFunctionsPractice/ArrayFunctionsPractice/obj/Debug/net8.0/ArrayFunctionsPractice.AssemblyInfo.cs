@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayFunctionsPractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75ca87bebbc6eb7e62014cd434f1b249d0c24fdf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91559f9e91dcc39abe685388e50d829e390d687b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayFunctionsPractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayFunctionsPractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

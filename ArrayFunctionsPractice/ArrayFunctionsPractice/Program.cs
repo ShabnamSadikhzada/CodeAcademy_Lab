@@ -4,8 +4,10 @@
     {
         static void Main(string[] args)
         {
-            FindMin();
-            FindOrtalama();
+            //FindMin();
+            //FindOrtalama();
+            //Console.WriteLine(IsComplex(9));
+            FindSimpleOrComplexInArray();
         }
 
         public static void FindMin()
@@ -43,6 +45,87 @@
             }
             double ortalama = sum / (nums.Length);
             Console.WriteLine("ortalama:{0}", ortalama);
+        }
+
+        public static void FindSimpleOrComplexInArray()
+        {
+            int simpleCount = 0, complexCount = 0;
+            Console.WriteLine("enter array size:");
+            int l = Convert.ToInt32(Console.ReadLine());
+            int[] nums = new int[l];
+            Console.WriteLine("enter array's elements:");
+            for (int i = 0; i < nums.Length; i++)
+            {
+                nums[i] = Convert.ToInt32(Console.ReadLine());
+                if (IsComplex(nums[i]))
+                {
+                    complexCount++;
+                }
+                else 
+                {
+                    simpleCount++;
+                }
+            }
+            int[] simpleElements = new int[simpleCount];
+            int[] complexElements = new int[complexCount];
+
+            int count = 0;
+            for(int i = 0;i < nums.Length; i++)
+            {
+                if(!IsComplex(nums[i]))
+                {
+                    simpleElements[count++] = nums[i];
+                }
+                if(count == simpleCount)
+                {
+                    break;
+                }
+            }
+
+            count = 0;
+            for (int i = 0; i < nums.Length; i++)
+            {
+                if (IsComplex(nums[i]))
+                {
+                    complexElements[count++] = nums[i];
+                }
+                if (count == complexCount)
+                {
+                    break;
+                }
+            }
+
+            Console.WriteLine("Complex array:");
+            DisplayArray(complexElements);
+
+            Console.WriteLine("Simple array:");
+            DisplayArray(simpleElements);
+        }
+
+        public static bool IsComplex(int num) 
+        {
+            int count = 0;
+            for(int i = 1;i < num/2; i++)
+            {
+                if(num%i == 0)
+                {
+                    count++; 
+                }
+            }
+
+            if(count >=2)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public static void DisplayArray(int[] arr)
+        {
+            for(int i = 0; i<arr.Length; i++)
+            {
+                Console.WriteLine(arr[i] + " ");
+            }
         }
     }
 }
