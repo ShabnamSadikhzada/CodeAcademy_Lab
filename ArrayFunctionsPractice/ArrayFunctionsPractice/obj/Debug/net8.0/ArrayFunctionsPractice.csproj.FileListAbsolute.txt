@@ -1,0 +1,15 @@
+C:\Users\shabnamjs\Desktop\Lab\ArrayFunctionsPractice\ArrayFunctionsPractice\bin\Debug\net8.0\ArrayFunctionsPractice.exe
+C:\Users\shabnamjs\Desktop\Lab\ArrayFunctionsPractice\ArrayFunctionsPractice\bin\Debug\net8.0\ArrayFunctionsPractice.deps.json
+C:\Users\shabnamjs\Desktop\Lab\ArrayFunctionsPractice\ArrayFunctionsPractice\bin\Debug\net8.0\ArrayFunctionsPractice.runtimeconfig.json
+C:\Users\shabnamjs\Desktop\Lab\ArrayFunctionsPractice\ArrayFunctionsPractice\bin\Debug\net8.0\ArrayFunctionsPractice.dll
+C:\Users\shabnamjs\Desktop\Lab\ArrayFunctionsPractice\ArrayFunctionsPractice\bin\Debug\net8.0\ArrayFunctionsPractice.pdb
+C:\Users\shabnamjs\Desktop\Lab\ArrayFunctionsPractice\ArrayFunctionsPractice\obj\Debug\net8.0\ArrayFunctionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabnamjs\Desktop\Lab\ArrayFunctionsPractice\ArrayFunctionsPractice\obj\Debug\net8.0\ArrayFunctionsPractice.AssemblyInfoInputs.cache
+C:\Users\shabnamjs\Desktop\Lab\ArrayFunctionsPractice\ArrayFunctionsPractice\obj\Debug\net8.0\ArrayFunctionsPractice.AssemblyInfo.cs
+C:\Users\shabnamjs\Desktop\Lab\ArrayFunctionsPractice\ArrayFunctionsPractice\obj\Debug\net8.0\ArrayFunctionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\shabnamjs\Desktop\Lab\ArrayFunctionsPractice\ArrayFunctionsPractice\obj\Debug\net8.0\ArrayFunctionsPractice.sourcelink.json
+C:\Users\shabnamjs\Desktop\Lab\ArrayFunctionsPractice\ArrayFunctionsPractice\obj\Debug\net8.0\ArrayFunctionsPractice.dll
+C:\Users\shabnamjs\Desktop\Lab\ArrayFunctionsPractice\ArrayFunctionsPractice\obj\Debug\net8.0\refint\ArrayFunctionsPractice.dll
+C:\Users\shabnamjs\Desktop\Lab\ArrayFunctionsPractice\ArrayFunctionsPractice\obj\Debug\net8.0\ArrayFunctionsPractice.pdb
+C:\Users\shabnamjs\Desktop\Lab\ArrayFunctionsPractice\ArrayFunctionsPractice\obj\Debug\net8.0\ArrayFunctionsPractice.genruntimeconfig.cache
+C:\Users\shabnamjs\Desktop\Lab\ArrayFunctionsPractice\ArrayFunctionsPractice\obj\Debug\net8.0\ref\ArrayFunctionsPractice.dll
