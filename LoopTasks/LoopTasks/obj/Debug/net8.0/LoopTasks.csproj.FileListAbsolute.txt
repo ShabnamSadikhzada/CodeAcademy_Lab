@@ -1,0 +1,15 @@
+C:\Users\shabnamjs\Desktop\Lab\LoopTasks\LoopTasks\bin\Debug\net8.0\LoopTasks.exe
+C:\Users\shabnamjs\Desktop\Lab\LoopTasks\LoopTasks\bin\Debug\net8.0\LoopTasks.deps.json
+C:\Users\shabnamjs\Desktop\Lab\LoopTasks\LoopTasks\bin\Debug\net8.0\LoopTasks.runtimeconfig.json
+C:\Users\shabnamjs\Desktop\Lab\LoopTasks\LoopTasks\bin\Debug\net8.0\LoopTasks.dll
+C:\Users\shabnamjs\Desktop\Lab\LoopTasks\LoopTasks\bin\Debug\net8.0\LoopTasks.pdb
+C:\Users\shabnamjs\Desktop\Lab\LoopTasks\LoopTasks\obj\Debug\net8.0\LoopTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabnamjs\Desktop\Lab\LoopTasks\LoopTasks\obj\Debug\net8.0\LoopTasks.AssemblyInfoInputs.cache
+C:\Users\shabnamjs\Desktop\Lab\LoopTasks\LoopTasks\obj\Debug\net8.0\LoopTasks.AssemblyInfo.cs
+C:\Users\shabnamjs\Desktop\Lab\LoopTasks\LoopTasks\obj\Debug\net8.0\LoopTasks.csproj.CoreCompileInputs.cache
+C:\Users\shabnamjs\Desktop\Lab\LoopTasks\LoopTasks\obj\Debug\net8.0\LoopTasks.sourcelink.json
+C:\Users\shabnamjs\Desktop\Lab\LoopTasks\LoopTasks\obj\Debug\net8.0\LoopTasks.dll
+C:\Users\shabnamjs\Desktop\Lab\LoopTasks\LoopTasks\obj\Debug\net8.0\refint\LoopTasks.dll
+C:\Users\shabnamjs\Desktop\Lab\LoopTasks\LoopTasks\obj\Debug\net8.0\LoopTasks.pdb
+C:\Users\shabnamjs\Desktop\Lab\LoopTasks\LoopTasks\obj\Debug\net8.0\LoopTasks.genruntimeconfig.cache
+C:\Users\shabnamjs\Desktop\Lab\LoopTasks\LoopTasks\obj\Debug\net8.0\ref\LoopTasks.dll
