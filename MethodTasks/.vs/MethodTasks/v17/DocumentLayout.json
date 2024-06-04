@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shabnamjs\\Desktop\\Lab\\MethodTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB13984D-5846-4D6C-806F-BD056CE0F6BB}|MethodTasks\\MethodTasks.csproj|c:\\users\\shabnamjs\\desktop\\lab\\methodtasks\\methodtasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB13984D-5846-4D6C-806F-BD056CE0F6BB}|MethodTasks\\MethodTasks.csproj|solutionrelative:methodtasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\Lab\\MethodTasks\\MethodTasks\\Program.cs",
+              "RelativeDocumentMoniker": "MethodTasks\\Program.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\Lab\\MethodTasks\\MethodTasks\\Program.cs",
+              "RelativeToolTip": "MethodTasks\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:18:12.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

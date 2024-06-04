@@ -1,4 +1,7 @@
-﻿namespace LoopTasks;
+﻿using System.Diagnostics.Metrics;
+using System;
+
+namespace LoopTasks;
 internal class Program
 {
     static void Main(string[] args)
@@ -26,11 +29,11 @@ internal class Program
 
         for (int i = 1; i < nums.Length; i++)
         {
-            if(nums[i] < min)
+            if (nums[i] < min)
             {
                 min = nums[i];
             }
-            if(nums[i] > max)
+            if (nums[i] > max)
             {
                 max = nums[i];
             }
@@ -45,7 +48,7 @@ internal class Program
         int[] nums = new int[l];
         Console.WriteLine("enter array's elements:");
 
-        for (int i = 0; i<l; i++)
+        for (int i = 0; i < l; i++)
         {
             nums[i] = Convert.ToInt32(Console.ReadLine());
         }
@@ -54,8 +57,8 @@ internal class Program
 
         foreach (int i in nums)
         {
-            if(i%2 == 0) countEven++;
-            else         countOdd++;
+            if (i % 2 == 0) countEven++;
+            else countOdd++;
         }
 
         Console.WriteLine("even nums count: {0}, odd nums count: {1}", countEven, countOdd);
@@ -65,20 +68,20 @@ internal class Program
     {
         int sum = 0;
         int digit = 0;
-        while(num > 0)
+        while (num > 0)
         {
             sum += num % 10;
-            num = (num-(num%10))/10;
+            num = (num - (num % 10)) / 10;
             digit++;
         }
-        Console.WriteLine("sum: {0}, digit: {1}", sum,digit);
+        Console.WriteLine("sum: {0}, digit: {1}", sum, digit);
     }
 
     #endregion
     public static void Task4()
     {
         int a = Convert.ToInt32(Console.ReadLine());
-        for (int i = 0;i<a;i++)
+        for (int i = 0; i < a; i++)
         {
             Console.WriteLine(new String('*', a)); ;
         }
@@ -110,16 +113,16 @@ internal class Program
             }
             Console.WriteLine();
         }
-            
+
     }
 
     public static void Task7()
     {
-        for(int i = 1; i<=10; i++)
+        for (int i = 1; i <= 10; i++)
         {
-            for(int j = 1; j<=10; j++)
+            for (int j = 1; j <= 10; j++)
             {
-                Console.WriteLine("{0} * {1} = {2}", i, j, i*j);
+                Console.WriteLine("{0} * {1} = {2}", i, j, i * j);
             }
             Console.WriteLine();
         }
@@ -140,7 +143,7 @@ internal class Program
             }
             else
             {
-                Console.WriteLine("try again, you have {0} chance", 3-i);
+                Console.WriteLine("try again, you have {0} chance", 3 - i);
             }
             userNum = Convert.ToInt32(Console.ReadLine());
         }
@@ -156,9 +159,9 @@ internal class Program
         Console.WriteLine("hem 2ye hem de 3e bolunen elementler:");
         foreach (int num in nums)
         {
-            if(num%2 == 0)
+            if (num % 2 == 0)
             {
-                if(num%3 == 0)
+                if (num % 3 == 0)
                 {
                     Console.Write(num + " ");
                 }
@@ -177,7 +180,7 @@ internal class Program
         int temp1 = 0, temp2 = 0;
         foreach (int num in nums)
         {
-            if ((num%2) == 0)
+            if ((num % 2) == 0)
             {
                 ikiyeBolunenler[temp1] = num;
                 temp1++;
@@ -206,21 +209,47 @@ internal class Program
 
     public static void Task10()
     {
-        int num = 0;
-        while(num < 1 || num > 6)
+        int n = 0;
+        while (n < 1 || n > 6)
         {
             Console.WriteLine("enter num between 1-6");
-            num = Convert.ToInt32(Console.ReadLine());
+            n = Convert.ToInt32(Console.ReadLine());
         }
-        
 
-        static bool Check(int[] nums)
+
+        Random random = new Random();
+        int count = 0, count1 = 0;
+        while (count1 < n)
         {
-            while(num > 0)
+            int[] randomNumbers = new int[n];
+            while (count < n)
             {
+                int newRandom = random.Next(1, 50);
+                bool isUnique = true;
 
+                for (int i = 0; i < count; i++)
+                {
+                    if (randomNumbers[i] == newRandom)
+                    {
+                        isUnique = false;
+                        break;
+                    }
+                }
+
+                if (isUnique)
+                {
+                    randomNumbers[count] = newRandom;
+                    count++;
+                }
             }
-        }
 
+            foreach (int i in randomNumbers)
+            {
+                Console.Write(i + " ");
+            }
+            Console.WriteLine();
+            count1++;
+            count = 0;
+        }
     }
 }

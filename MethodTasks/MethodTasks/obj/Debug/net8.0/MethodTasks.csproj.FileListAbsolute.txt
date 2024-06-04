@@ -1,0 +1,15 @@
+C:\Users\shabnamjs\Desktop\Lab\MethodTasks\MethodTasks\obj\Debug\net8.0\MethodTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabnamjs\Desktop\Lab\MethodTasks\MethodTasks\obj\Debug\net8.0\MethodTasks.AssemblyInfoInputs.cache
+C:\Users\shabnamjs\Desktop\Lab\MethodTasks\MethodTasks\obj\Debug\net8.0\MethodTasks.AssemblyInfo.cs
+C:\Users\shabnamjs\Desktop\Lab\MethodTasks\MethodTasks\obj\Debug\net8.0\MethodTasks.csproj.CoreCompileInputs.cache
+C:\Users\shabnamjs\Desktop\Lab\MethodTasks\MethodTasks\obj\Debug\net8.0\MethodTasks.sourcelink.json
+C:\Users\shabnamjs\Desktop\Lab\MethodTasks\MethodTasks\bin\Debug\net8.0\MethodTasks.exe
+C:\Users\shabnamjs\Desktop\Lab\MethodTasks\MethodTasks\bin\Debug\net8.0\MethodTasks.deps.json
+C:\Users\shabnamjs\Desktop\Lab\MethodTasks\MethodTasks\bin\Debug\net8.0\MethodTasks.runtimeconfig.json
+C:\Users\shabnamjs\Desktop\Lab\MethodTasks\MethodTasks\bin\Debug\net8.0\MethodTasks.dll
+C:\Users\shabnamjs\Desktop\Lab\MethodTasks\MethodTasks\bin\Debug\net8.0\MethodTasks.pdb
+C:\Users\shabnamjs\Desktop\Lab\MethodTasks\MethodTasks\obj\Debug\net8.0\MethodTasks.dll
+C:\Users\shabnamjs\Desktop\Lab\MethodTasks\MethodTasks\obj\Debug\net8.0\refint\MethodTasks.dll
+C:\Users\shabnamjs\Desktop\Lab\MethodTasks\MethodTasks\obj\Debug\net8.0\MethodTasks.pdb
+C:\Users\shabnamjs\Desktop\Lab\MethodTasks\MethodTasks\obj\Debug\net8.0\MethodTasks.genruntimeconfig.cache
+C:\Users\shabnamjs\Desktop\Lab\MethodTasks\MethodTasks\obj\Debug\net8.0\ref\MethodTasks.dll
