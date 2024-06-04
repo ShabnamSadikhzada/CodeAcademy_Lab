@@ -19,6 +19,7 @@ internal class Program
         Task8();
         Task9();*/
         Task10();
+
     }
 
     #region Tasks
@@ -216,7 +217,6 @@ internal class Program
             n = Convert.ToInt32(Console.ReadLine());
         }
 
-
         Random random = new Random();
         int count = 0, count1 = 0;
         while (count1 < n)
@@ -239,17 +239,19 @@ internal class Program
                 if (isUnique)
                 {
                     randomNumbers[count] = newRandom;
+                    Console.Write(randomNumbers[count] + " ");
                     count++;
                 }
-            }
-
-            foreach (int i in randomNumbers)
-            {
-                Console.Write(i + " ");
+                
             }
             Console.WriteLine();
             count1++;
             count = 0;
         }
+    }
+
+    public static void Task11()
+    {
+        Console.WriteLine("");
     }
 }
