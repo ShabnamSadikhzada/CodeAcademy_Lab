@@ -1,0 +1,15 @@
+C:\Users\shabnamjs\Desktop\Lab\CollectionTasks\CollectionTasks\bin\Debug\net8.0\CollectionTasks.exe
+C:\Users\shabnamjs\Desktop\Lab\CollectionTasks\CollectionTasks\bin\Debug\net8.0\CollectionTasks.deps.json
+C:\Users\shabnamjs\Desktop\Lab\CollectionTasks\CollectionTasks\bin\Debug\net8.0\CollectionTasks.runtimeconfig.json
+C:\Users\shabnamjs\Desktop\Lab\CollectionTasks\CollectionTasks\bin\Debug\net8.0\CollectionTasks.dll
+C:\Users\shabnamjs\Desktop\Lab\CollectionTasks\CollectionTasks\bin\Debug\net8.0\CollectionTasks.pdb
+C:\Users\shabnamjs\Desktop\Lab\CollectionTasks\CollectionTasks\obj\Debug\net8.0\CollectionTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabnamjs\Desktop\Lab\CollectionTasks\CollectionTasks\obj\Debug\net8.0\CollectionTasks.AssemblyInfoInputs.cache
+C:\Users\shabnamjs\Desktop\Lab\CollectionTasks\CollectionTasks\obj\Debug\net8.0\CollectionTasks.AssemblyInfo.cs
+C:\Users\shabnamjs\Desktop\Lab\CollectionTasks\CollectionTasks\obj\Debug\net8.0\CollectionTasks.csproj.CoreCompileInputs.cache
+C:\Users\shabnamjs\Desktop\Lab\CollectionTasks\CollectionTasks\obj\Debug\net8.0\CollectionTasks.sourcelink.json
+C:\Users\shabnamjs\Desktop\Lab\CollectionTasks\CollectionTasks\obj\Debug\net8.0\CollectionTasks.dll
+C:\Users\shabnamjs\Desktop\Lab\CollectionTasks\CollectionTasks\obj\Debug\net8.0\refint\CollectionTasks.dll
+C:\Users\shabnamjs\Desktop\Lab\CollectionTasks\CollectionTasks\obj\Debug\net8.0\CollectionTasks.pdb
+C:\Users\shabnamjs\Desktop\Lab\CollectionTasks\CollectionTasks\obj\Debug\net8.0\CollectionTasks.genruntimeconfig.cache
+C:\Users\shabnamjs\Desktop\Lab\CollectionTasks\CollectionTasks\obj\Debug\net8.0\ref\CollectionTasks.dll
