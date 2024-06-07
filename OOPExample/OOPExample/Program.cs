@@ -36,8 +36,8 @@ namespace Example
             Console.WriteLine("enter book id. if you want add another book enter 1, else enter 0");
             while (true)
             {
-                isCountinue = Convert.ToInt32(Console.ReadLine());
-                if (isCountinue == 1)
+                isCountinue2 = Convert.ToInt32(Console.ReadLine());
+                if (isCountinue2 == 1)
                 {
                     id = Convert.ToInt32(Console.ReadLine());
                     order.Satish(id, library);
