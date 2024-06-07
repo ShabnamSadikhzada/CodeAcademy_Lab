@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shabnamjs\\Desktop\\Lab\\OOPExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52A2F50A-42F4-4881-BAE9-323A353CD48C}|OOPExample\\OOPExample.csproj|c:\\users\\shabnamjs\\desktop\\lab\\oopexample\\oopexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A2F50A-42F4-4881-BAE9-323A353CD48C}|OOPExample\\OOPExample.csproj|solutionrelative:oopexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A2F50A-42F4-4881-BAE9-323A353CD48C}|OOPExample\\OOPExample.csproj|c:\\users\\shabnamjs\\desktop\\lab\\oopexample\\oopexample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A2F50A-42F4-4881-BAE9-323A353CD48C}|OOPExample\\OOPExample.csproj|solutionrelative:oopexample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\Lab\\OOPExample\\OOPExample\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "OOPExample\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\Lab\\OOPExample\\OOPExample\\Models\\Book.cs",
+              "RelativeToolTip": "OOPExample\\Models\\Book.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAUwGMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:07:23.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\Lab\\OOPExample\\OOPExample\\Program.cs",
+              "RelativeDocumentMoniker": "OOPExample\\Program.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\Lab\\OOPExample\\OOPExample\\Program.cs",
+              "RelativeToolTip": "OOPExample\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:07:08.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
