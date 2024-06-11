@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shabnamjs\\Desktop\\Lab\\ReflectionExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EB856B-8AFF-4073-89EB-13252735EDE2}|ReflectionExample\\ReflectionExample.csproj|c:\\users\\shabnamjs\\desktop\\lab\\reflectionexample\\reflectionexample\\models\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EB856B-8AFF-4073-89EB-13252735EDE2}|ReflectionExample\\ReflectionExample.csproj|solutionrelative:reflectionexample\\models\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EB856B-8AFF-4073-89EB-13252735EDE2}|ReflectionExample\\ReflectionExample.csproj|c:\\users\\shabnamjs\\desktop\\lab\\reflectionexample\\reflectionexample\\models\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EB856B-8AFF-4073-89EB-13252735EDE2}|ReflectionExample\\ReflectionExample.csproj|solutionrelative:reflectionexample\\models\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EB856B-8AFF-4073-89EB-13252735EDE2}|ReflectionExample\\ReflectionExample.csproj|c:\\users\\shabnamjs\\desktop\\lab\\reflectionexample\\reflectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EB856B-8AFF-4073-89EB-13252735EDE2}|ReflectionExample\\ReflectionExample.csproj|solutionrelative:reflectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EB856B-8AFF-4073-89EB-13252735EDE2}|ReflectionExample\\ReflectionExample.csproj|c:\\users\\shabnamjs\\desktop\\lab\\reflectionexample\\reflectionexample\\models\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EB856B-8AFF-4073-89EB-13252735EDE2}|ReflectionExample\\ReflectionExample.csproj|solutionrelative:reflectionexample\\models\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalariedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\Lab\\ReflectionExample\\ReflectionExample\\Models\\SalariedEmployee.cs",
+              "RelativeDocumentMoniker": "ReflectionExample\\Models\\SalariedEmployee.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\Lab\\ReflectionExample\\ReflectionExample\\Models\\SalariedEmployee.cs",
+              "RelativeToolTip": "ReflectionExample\\Models\\SalariedEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:03:51.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\Lab\\ReflectionExample\\ReflectionExample\\Models\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "ReflectionExample\\Models\\HourlyEmployee.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\Lab\\ReflectionExample\\ReflectionExample\\Models\\HourlyEmployee.cs",
+              "RelativeToolTip": "ReflectionExample\\Models\\HourlyEmployee.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:03:50.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\Lab\\ReflectionExample\\ReflectionExample\\Models\\IEmployee.cs",
+              "RelativeDocumentMoniker": "ReflectionExample\\Models\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\Lab\\ReflectionExample\\ReflectionExample\\Models\\IEmployee.cs",
+              "RelativeToolTip": "ReflectionExample\\Models\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:48:21.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\Lab\\ReflectionExample\\ReflectionExample\\Program.cs",
+              "RelativeDocumentMoniker": "ReflectionExample\\Program.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\Lab\\ReflectionExample\\ReflectionExample\\Program.cs",
+              "RelativeToolTip": "ReflectionExample\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:47:54.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
