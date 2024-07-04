@@ -211,11 +211,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shabnamjs\\Desktop\\VCardProjesi\\VCardProjesi\\VCardProjesi.csproj",
+      "projectUniqueName": "C:\\Users\\shabnamjs\\Desktop\\Lab\\VCardProjesi\\VCardProjesi\\VCardProjesi.csproj",
       "projectName": "VCardProjesi",
-      "projectPath": "C:\\Users\\shabnamjs\\Desktop\\VCardProjesi\\VCardProjesi\\VCardProjesi.csproj",
+      "projectPath": "C:\\Users\\shabnamjs\\Desktop\\Lab\\VCardProjesi\\VCardProjesi\\VCardProjesi.csproj",
       "packagesPath": "C:\\Users\\shabnamjs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shabnamjs\\Desktop\\VCardProjesi\\VCardProjesi\\obj\\",
+      "outputPath": "C:\\Users\\shabnamjs\\Desktop\\Lab\\VCardProjesi\\VCardProjesi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -279,7 +279,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

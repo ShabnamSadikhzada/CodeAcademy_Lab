@@ -15,8 +15,8 @@ class Program
         string url = "https://randomuser.me/api/?results=1";
         using HttpClient client = new HttpClient();
 
-        string filePath = "../../../VCards/";
-
+        string basePath = Directory.GetCurrentDirectory();
+        basePath = Path.Combine(basePath, "..", "..", "..", "VCards");
 
         for (int i = 0;i < count; i++)
         {
@@ -30,19 +30,23 @@ class Program
             var jsonObject = JsonConvert.DeserializeObject<JObject>(responseBody);
             var results = jsonObject["results"].ToString();
             var vCards = JsonConvert.DeserializeObject<VCard[]>(results);
-            
+
+            string filePath;
             foreach (var vcard in vCards)
             {
                 string vcardStr = vcard.VCardDonusturme();
                 Console.WriteLine(vcardStr);
-                filePath = Path.Combine(filePath, $"{vcard.Name.First}_{vcard.Name.Last}.vcf");
-                File.Create(filePath);
+                filePath = Path.Combine(basePath, $"{vcard.Name.First}_{vcard.Name.Last}.vcf");
+                //File.Create(filePath);
                 //File.WriteAllText(filePath, vcardStr);
 
-                //using (StreamWriter writer = new StreamWriter(filePath))
-                //{
-                //    writer.Write(vcardStr);
-                //}
+                using FileStream fS = File.Create(filePath);
+
+
+                using (StreamWriter writer = new StreamWriter(fS))
+                {
+                    writer.Write(vcardStr);
+                }
             }
         }
 

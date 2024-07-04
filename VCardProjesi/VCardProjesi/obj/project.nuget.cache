@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YfqJd4VjwDseYLN90go+MQjHpO2A5dnD388dVq0Sc9zw4UxB9kExJbeRfQ1n8Kn7UU0G3Pk4lyrGyCuGAClAoA==",
+  "dgSpecHash": "jM/6Z0R0Wqs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\shabnamjs\\Desktop\\VCardProjesi\\VCardProjesi\\VCardProjesi.csproj",
+  "projectFilePath": "C:\\Users\\shabnamjs\\Desktop\\Lab\\VCardProjesi\\VCardProjesi\\VCardProjesi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shabnamjs\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\shabnamjs\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",

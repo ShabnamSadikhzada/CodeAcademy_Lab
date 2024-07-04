@@ -9,14 +9,23 @@ public class VCard
 
     public string VCardDonusturme()
     {
-        string res = 
+
+        
+        string res =
             $"BEGIN  :  VCARD\r\n" +
             $"VERSION:  3.0\r\n" +
-            $"N      :  {Name.First};{Name.Last}\r\n" +
+            $"N      :  {Name.Last};{Name.First};;;\r\n" +
             $"EMAIL  :  {Email}\r\n" +
             $"TEL    :  {Phone}\r\n" +
-            $"ADR    :  {Location.City};{Location.Country}\r\n" +
-            $"END    :  VCARD\r\n";
+            $"ADR    :  ;;{Location.City};;{Location.Country}\r\n" +
+            $"END    :  VCARD";
+        //$"BEGIN:VCARD\r\n" +
+        //$"VERSION:3.0\r\n" +
+        //$"N: {Name.Last};{Name.First};;;\r\n" +
+        //$"EMAIL:{Email}\r\n" +
+        //$"TEL :{Phone}\r\n" +
+        //$"ADR :;;{Location.City};;{Location.Country}\r\n" +
+        //$"END:VCARD\r\n";
 
         return res;
     }
