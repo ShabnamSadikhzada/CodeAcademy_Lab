@@ -1,0 +1,7 @@
+BEGIN   :   VCARD
+VERSION :   3.0
+N       :   Vasić;Vukota;;;
+EMAIL   :   vukota.vasic@example.com
+TEL     :   028-5284-768
+ADR     :   ;;Prizren;;Serbia
+END     :   VCARD

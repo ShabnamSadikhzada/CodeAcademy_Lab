@@ -1,0 +1,7 @@
+BEGIN   :VCARD
+VERSION :   3.0
+N       :   Simmmons;Austin;;;
+EMAIL   :   austin.simmmons@example.com
+TEL     :   (439) 363-0938
+ADR     :   ;;Fargo;;United States
+END     :   VCARD

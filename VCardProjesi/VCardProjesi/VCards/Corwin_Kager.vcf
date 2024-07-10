@@ -1,0 +1,7 @@
+BEGIN   :VCARD
+VERSION :3.0
+N       :Kager;Corwin;;;
+EMAIL   :corwin.kager@example.com
+TEL     :(093) 0308873
+ADR     :;;Blesdijke;;Netherlands
+END     :VCARD

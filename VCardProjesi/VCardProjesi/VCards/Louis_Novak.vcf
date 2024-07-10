@@ -1,0 +1,7 @@
+BEGIN   : VCARD
+VERSION :   3.0
+N       :   Novak;Louis;;;
+EMAIL   :   louis.novak@example.com
+TEL     :   T79 Z43-5237
+ADR     :   ;;St. Antoine;;Canada
+END     :   VCARD

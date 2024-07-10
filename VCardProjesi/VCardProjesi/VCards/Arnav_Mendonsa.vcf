@@ -1,0 +1,7 @@
+BEGIN   :VCARD
+VERSION :3.0
+N       :Mendonsa;Arnav;;;
+EMAIL   :arnav.mendonsa@example.com
+TEL     :7459568332
+ADR     :;;Mumbai;;India
+END     :VCARD
